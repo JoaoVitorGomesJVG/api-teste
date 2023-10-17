@@ -3,7 +3,6 @@ const fs = require("fs");
 const { promisify } = require("util")
 
 const app = fastify()
-const port = process.env.PORT || 3030
 
 const readFile = promisify(fs.readFile)
 
@@ -49,3 +48,6 @@ app.get("/images/:imageName", async (req, res) => {
     return image
 })
 
+app.listen({
+    port: Number(process.env.PORT) || 3030
+})
