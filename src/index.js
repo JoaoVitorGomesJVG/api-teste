@@ -49,5 +49,5 @@ app.get("/images/:imageName", async (req, res) => {
 })
 
 app.listen({
-    port: 3030
+    port: Number(process.env.PORT) || 3030
 })

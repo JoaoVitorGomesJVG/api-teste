@@ -11,6 +11,7 @@
         "reviewTitle": "A coisa ta preta!",
         "review": "Pantera Negra é o mais novo filme da Marvel Studios, agora trazendo um filme solo do personagem que já havia dado as caras em Capitão América: Guerra Civil. Devido aos fatos apresentados, agora T’Challa (Chadwick Boseman) tem que voltar a Wakanda e assumir o seu papel como rei. A apresentação de Wakanda é um dos pontos fortes de Pantera Negra. Somos convidados a conhecer toda a estrutura dessa nação que aos olhos do mundo é um povo sub-desenvolvido, mas que na verdade possui as tecnologias mais avançadas da Terra. Tudo isso devido ao Vibranium, o metal mais poderoso e valioso da Terra.Visualmente mesclando a savana africana com elementos futuristas, pode-se dizer que o visual de Wakanda é incrível. Além do visual, também podemos ver boa parte de suas tradições, contando com as tribos, rituais de sucessão do rei. Um povo muito fiel a sua cultura. Os problemas de verdade começam quando Ulysses Klaue / Klaw (Andy Serkis) que já havia causado transtornos ao povo de Wakanda reaparece. E além dele surge um novo personagem Erik Killmonger (Michael B. Jordan) que acaba por assumir o papel de vilão do filme. Panera Negra tem uma trama muito bem costurada, e melhor com algo bem significativo a dizer. Killmonger é um vilão bem construído, que tem um ponto de vista sobre Wakanda que faz com que outros também tendem a concordar com ele. Ele é um vilão plausível que tem suas motivações bem exemplificadas na tela. Será que Wakanda com toda a sua riqueza não poderia revelar-se ao mundo e assim fazer algo mais pelo mundo? Ou isso poderia trazer guerras e infortúnios para o seu povo? T’challa acaba tendo que ponderar tudo isso além de agir como herói e protetor de seu povo. Pantera Negra levanta esses assuntos de uma maneira muito interessante. É quase impossível não fazermos alguns paralelos com a nossa realidade, onde tantos tem muito e outros tão pouco. No que tange a parte técnica, o visual do filme é um show à parte. A ambientação, os designs dos personagens são muito bons. As cena de T’challa indo ao “plano espiritual” é belíssima e certamente marcante. Talvez a única ressalva seja o uso as vezes excessivo de CGI (sempre ele), principalmente no final. Pantera Negra também conta com um elenco poderoso e marcante que entrega atuações bem convincentes. Dá para notar todo o entrosamento e liberdade que eles tinham. Pantera Negra é um filme poderosíssimo e surpreendente. Ele agrada tanto quem procura um filme de super herói quanto quem procura um de ação com um bom conteúdo. O novo filme da Marvel Studios é sem dúvida um dos seus melhores trabalhos, pois diverte e nos faz refletir na medida certa. E que com certeza será lembrado daqui um tempo por trazer tantas coisas questões em um filme. Um brinde à Wakanda."
     },
+    
     {
         "id": 2,
         "imageUrl":"http://localhost:3030/images/Homo_Deus.jpg",
@@ -25,6 +26,7 @@
 
 
     },
+
     {
         "id": 3,
         "imageUrl":"http://localhost:3030/images/Dom_Casmurro.jpg",
@@ -37,6 +39,7 @@
         "reviewTitle": "",
         "review":"Pantera Negra é o mais novo filme da Marvel Studios, agora trazendo um filme solo do personagem que já havia dado as caras em Capitão América: Guerra Civil. Devido aos fatos apresentados, agora T’Challa (Chadwick Boseman) tem que voltar a Wakanda e assumir o seu papel como rei. A apresentação de Wakanda é um dos pontos fortes de Pantera Negra. Somos convidados a conhecer toda a estrutura dessa nação que aos olhos do mundo é um povo sub-desenvolvido, mas que na verdade possui as tecnologias mais avançadas da Terra. Tudo isso devido ao Vibranium, o metal mais poderoso e valioso da Terra.Visualmente mesclando a savana africana com elementos futuristas, pode-se dizer que o visual de Wakanda é incrível. Além do visual, também podemos ver boa parte de suas tradições, contando com as tribos, rituais de sucessão do rei. Um povo muito fiel a sua cultura. Os problemas de verdade começam quando Ulysses Klaue / Klaw (Andy Serkis) que já havia causado transtornos ao povo de Wakanda reaparece. E além dele surge um novo personagem Erik Killmonger (Michael B. Jordan) que acaba por assumir o papel de vilão do filme. Panera Negra tem uma trama muito bem costurada, e melhor com algo bem significativo a dizer. Killmonger é um vilão bem construído, que tem um ponto de vista sobre Wakanda que faz com que outros também tendem a concordar com ele. Ele é um vilão plausível que tem suas motivações bem exemplificadas na tela. Será que Wakanda com toda a sua riqueza não poderia revelar-se ao mundo e assim fazer algo mais pelo mundo? Ou isso poderia trazer guerras e infortúnios para o seu povo? T’challa acaba tendo que ponderar tudo isso além de agir como herói e protetor de seu povo. Pantera Negra levanta esses assuntos de uma maneira muito interessante. É quase impossível não fazermos alguns paralelos com a nossa realidade, onde tantos tem muito e outros tão pouco. No que tange a parte técnica, o visual do filme é um show à parte. A ambientação, os designs dos personagens são muito bons. As cena de T’challa indo ao “plano espiritual” é belíssima e certamente marcante. Talvez a única ressalva seja o uso as vezes excessivo de CGI (sempre ele), principalmente no final. Pantera Negra também conta com um elenco poderoso e marcante que entrega atuações bem convincentes. Dá para notar todo o entrosamento e liberdade que eles tinham. Pantera Negra é um filme poderosíssimo e surpreendente. Ele agrada tanto quem procura um filme de super herói quanto quem procura um de ação com um bom conteúdo. O novo filme da Marvel Studios é sem dúvida um dos seus melhores trabalhos, pois diverte e nos faz refletir na medida certa. E que com certeza será lembrado daqui um tempo por trazer tantas coisas questões em um filme. Um brinde à Wakanda."
     },
+
     {
         "id": 4,
         "imageUrl":"http://localhost:3030/images/Memorias_Postumas.jpg",
@@ -49,6 +52,7 @@
         "reviewTitle": "",
         "review":""
     },
+
     {
         "id": 4,
         "imageUrl":"http://localhost:3030/images/Maus.jpg",
