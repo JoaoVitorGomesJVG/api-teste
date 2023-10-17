@@ -25,7 +25,7 @@ app.get("/books/:bookId", async (req, res) => {
 
     if(!book) {
         return res.status(404).send({
-            error: "Coloca o ID certo ai o buceta"
+            error: "wrongID"
         })
     }
 
