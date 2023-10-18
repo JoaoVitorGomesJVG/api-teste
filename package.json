@@ -1,11 +1,11 @@
 {
   "name": "api-teste",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.cjs",
   "type":"module",
   "scripts": {
-    "start":"node index.js",
-    "dev":"nodemon index.js"
+    "start":"node index.cjs",
+    "dev":"nodemon index.cjs"
   },
   "repository": {
     "type":"git",
