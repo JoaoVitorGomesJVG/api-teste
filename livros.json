@@ -64,6 +64,114 @@
         "synopsis":"",
         "reviewTitle": "",
         "review":""
+    },
+    {
+        "id": 6,
+        "imageUrl":"http://localhost:3030/images/O_Pequeno_Principe.jpg",
+        "title": "O Pequeno Príncipe",
+        "author": "Antoine de Saint-Exupéry",
+        "year":"1943",
+        "publisher": "Antofágica",
+        "pages": 256,
+        "synopsis":"Depois de sofrer um acidente e se perder no deserto, um aviador vê um pequeno príncipe, fato que muda sua vida dali em diante. Em meio a privações e risco de vida, o inusitado encontro com o menino se mostra uma jornada de aprendizado para o adulto ― assim como será para o leitor. Por meio de delírios e pérolas de sabedoria, o pequeno príncipe nos mostra como, por vezes, os adultos não entendem nada sozinhos ― e como isso pode ser cansativo para as crianças. O aviador também percebe, após ouvir o menino, como os adultos podem se corromper quando cobertos por julgamentos e obrigações. E é esta história sobre pureza que comove leitores de várias gerações desde então. Publicado pela primeira vez em 1943, O pequeno príncipe cativa leitores de todas as idades.",
+        "reviewTitle": "",
+        "review":""
+    },
+    {
+        "id": 7,
+        "imageUrl":"http://localhost:3030/images/Quarto_de_Despejo.jpg",
+        "title": "O Quarto de Despejo",
+        "author": "Carolina Maria de Jesus",
+        "year":"1960",
+        "publisher": "Ática",
+        "pages": 200,
+        "synopsis":"O diário da catadora de papel Carolina Maria de Jesus deu origem à este livro, que relata o cotidiano triste e cruel da vida na favela. A linguagem simples, mas contundente, comove o leitor pelo realismo e pelo olhar sensível na hora de contar o que viu, viveu e sentiu nos anos em que morou na comunidade do Canindé, em São Paulo, com três filhos.",
+        "reviewTitle": "",
+        "review":""
+    },
+    {
+        "id": 8,
+        "imageUrl":"http://localhost:3030/images/1984.jpg",
+        "title": "1984",
+        "author": "George Orwell",
+        "year":"1949",
+        "publisher": "Companhia das Letras",
+        "pages": 416,
+        "synopsis":"Winston, herói de 1984, último romance de George Orwell, vive aprisionado na engrenagem totalitária de uma sociedade completamente dominada pelo Estado, onde tudo é feito coletivamente, mas cada qual vive sozinho. Ninguém escapa à vigilância do Grande Irmão, a mais famosa personificação literária de um poder cínico e cruel ao infinito, além de vazio de sentido histórico. De fato, a ideologia do Partido dominante em Oceânia não visa nada de coisa alguma para ninguém, no presente ou no futuro. O'Brien, hierarca do Partido, é quem explica a Winston que 'só nos interessa o poder em si. Nem riqueza, nem luxo, nem vida longa, nem felicidade: só o poder pelo poder, poder puro' ",
+        "reviewTitle": "",
+        "review":""
+    },
+    {
+        "id": 9,
+        "imageUrl":"http://localhost:3030/images/A_Revolucao_dos_bichos.jpg",
+        "title": "A Revolução dos Bichos",
+        "author": "George Orwell",
+        "year":"1945",
+        "publisher": "Companhia das Letras",
+        "pages": 152,
+        "synopsis":"Escrita em plena Segunda Guerra Mundial e publicada em 1945 depois de ter sido rejeitada por várias editoras, essa pequena narrativa causou desconforto ao satirizar ferozmente a ditadura stalinista numa época em que os soviéticos ainda eram aliados do Ocidente na luta contra o eixo nazifascista. De fato, são claras as referências: o despótico Napoleão seria Stálin, o banido Bola-de-Neve seria Trotsky, e os eventos políticos - expurgos, instituição de um estado policial, deturpação tendenciosa da História - mimetizam os que estavam em curso na União Soviética. Escrito com perfeito domínio da narrativa, atenção às minúcias e extraordinária capacidade de criação de personagens e situações, A revolução dos bichos combina de maneira feliz duas ricas tradições literárias: a das fábulas morais, que remontam a Esopo, e a da sátira política, que teve talvez em Jonathan Swift seu representante máximo.",
+        "reviewTitle": "",
+        "review":""
+    },
+    {
+        "id": 10,
+        "imageUrl":"http://localhost:3030/images/O_Mundo_de_Sofia.jpg",
+        "title": "O Mundo de Sofia",
+        "author": "Jostein Gaardner",
+        "year":"1991",
+        "publisher": "Seguinte",
+        "pages": 568,
+        "synopsis":"Às vésperas de seu aniversário de quinze anos, Sofia Amundsen começa a receber bilhetes e cartões-postais bastante estranhos. Os bilhetes são anônimos e perguntam a Sofia quem é ela e de onde vem o mundo. Os postais são enviados do Líbano, por um major desconhecido, para uma certa Hilde Møller Knag, garota a quem Sofia também não conhece. O mistério dos bilhetes e dos postais é o ponto de partida deste romance fascinante, que vem conquistando milhões de leitores em todos os países e já vendeu mais de 1 milhão de exemplares só no Brasil. De capítulo em capítulo, de “lição” em “lição”, o leitor é convidado a percorrer toda a história da filosofia ocidental, ao mesmo tempo que se vê envolvido por um thriller que toma um rumo surpreendente.",
+        "reviewTitle": "",
+        "review":""
+    },
+    {
+        "id": 11,
+        "imageUrl":"http://localhost:3030/images/A_Tirania_do_Merito.jpg",
+        "title": "A Tirania do Mérito",
+        "author": "Michael J. Sandel",
+        "year":"2020",
+        "publisher": "Civilização Brasileira",
+        "pages": 350,
+        "synopsis":"Vivemos em uma constante competição, que separa o mundo entre 'ganhadores' e 'perdedores', esconde privilégios e vantagens e justifica o status quo por meio de ideias como 'quem se esforça tudo pode' e 'se você pode sonhar, você pode fazer'. O resultado concreto é um mundo que reforça a desigualdade social e, ao mesmo tempo, culpabiliza as pessoas, o que gera uma onda coletiva de raiva, frustração, populismo, polarização e descrença em relação ao governo e aos demais cidadãos. A resposta pública se manifesta em eventos como as eleições de Donald Trump, nos Estados Unidos em 2016, e de Jair Bolsonaro, no Brasil em 2018. Ao analisar conceitos em torno da ética do estudo, do trabalho, do sucesso, do fracasso, da tentativa e de quais são os meios considerados legítimos para trilhar esses caminhos, Sandel sugere um novo olhar para essas relações. O autor salienta as contradições do discurso meritocrático, seus contextos estruturais e a arrogância dos 'vencedores', que julgam duramente os 'perdedores'.",
+        "reviewTitle": "",
+        "review":""
+    },
+    {
+        "id": 12,
+        "imageUrl":"http://localhost:3030/images/Fahrenheit_451.jpg",
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "year":"1953",
+        "publisher": "Biblioteca Azul",
+        "pages": 216,
+        "synopsis":"Guy Montag é um bombeiro. Sua profissão é atear fogo nos livros. Em um mundo onde as pessoas vivem em função das telas e a literatura está ameaçada de extinção, os livros são objetos proibidos, e seus portadores são considerados criminosos. Montag nunca questionou seu trabalho; vive uma vida comum, cumpre o expediente e retorna ao final do dia para sua esposa e para a rotina do lar. Até que conhece Clarisse, uma jovem de comportamento suspeito, cheia de imaginação e boas histórias. Quando sua esposa entra em colapso mental e Clarisse desaparece, a vida de Montag não poderá mais ser a mesma. Um clássico da ficção científica e da literatura distópica, Fahrenheit 451 foi escrito originalmente como um conto: 'O bombeiro', contido no volume Prazer em Queimar: histórias de Fahrenheit 451. Incentivado pelo seu editor, transformou a ideia inicial em um romance, que se tornou um dos livros mais influentes de sua geração – e também um dos mais censurados e banidos de todos os tempos. Foi adaptado para o cinema duas vezes, a primeira pelas mãos do lendário cineasta francês François Truffaut, e depois para diversos formatos.",
+        "reviewTitle": "",
+        "review":""
+    },
+    {
+        "id": 13,
+        "imageUrl":"http://localhost:3030/images/Jane_Eyre.jpg",
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "year":"1847",
+        "publisher": "Antofágica",
+        "pages": 600,
+        "synopsis":"Jane não se acha uma moça particularmente bonita ou talentosa. Criada pela tia em um mundo pequeno demais para ela, é lançada ainda muito nova para descobrir por si mesma como viver uma vida relevante. Em uma sociedade tão restrita como a da Inglaterra do século XIX, compreender seu lugar, seus desejos e seu direito à felicidade pode ser o maior dos desafios. Jane Eyre foi escrito por Charlotte Brontë, uma das três irmãs mais importantes da literatura inglesa. Em uma época em que quase todas as esferas da vida pública eram vedadas às mulheres, a mera existência das irmãs Brontë era revolucionária. Tão revolucionária que não podia ser revelada: todas publicaram sob pseudônimos masculinos. No entanto, o conteúdo do livro era tão incendiário que nem o nome de Currer Bell foi o suficiente para poupá-la das críticas. Hoje, suas histórias seguem encantando gerações de leitores.",
+        "reviewTitle": "",
+        "review":""
+    },
+    {
+        "id": 14,
+        "imageUrl":"http://localhost:3030/images/Anne_1.jpg",
+        "title": "Anne de Green Gables",
+        "author": "Lucy Maud Montgomery",
+        "year":"1908",
+        "publisher": "Ciranda Cultural",
+        "pages": 336,
+        "synopsis":"Anne é uma órfã que foi enviada por engano à fazenda de Green Gables, já que os irmãos Marilla e Matthew tinham a intenção de adotar um menino. Com pena da garota, resolveram mantê-la na fazenda. Com seus longos cabelos ruivos, olhos acinzentados e uma imaginação que lhe permitia viver fantasias, Anne traz reflexões e pensamentos pertinentes sobre os obstáculos e as escolhas da vida de qualquer pré-adolescente.",
+        "reviewTitle": "",
+        "review":""
     }
         
 
